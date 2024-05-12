@@ -12,3 +12,10 @@ BONUS 1:
 Crea un container nel DOM , aggiungendo (attraverso la funzione append()) un elemento html con il numero o la stringa corretta da mostrare.
 BONUS 2:
 Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz. Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
+
+
+1) creo un loop che stampa i numeri da 1 a 100
+2) aggiungo all' interno una istruzione condizionale che riconoscera sel il numero è divisibile per 3 per 5 o per entrambi 
+3) con un console.log controllerò se le prime due righe sono state scritte correttamente
+4) creo un container nel Dom per aggiungerci un elemento HTML con all'interno il risultato delle operazioni precedenti
+5) abbelisco grazie alle classi css
